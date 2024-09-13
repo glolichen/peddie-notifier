@@ -1,0 +1,88 @@
+[
+	[
+		{
+			"block": "Math Center",
+			"time": "7:30pm",
+			"location": "ANH309",
+			"people": [
+				{
+					"name": "Leslie Han",
+					"email": "lhan-27@peddie.org"
+				},
+				{
+					"name": "Kasey Lee",
+					"email": "klee-27@peddie.org"
+				}
+			]
+		}
+	],
+	[
+		{
+			"block": "DMX",
+			"time": "10:20am",
+			"location": "CS Lab",
+			"people": [
+				{
+					"name": "Ananya Hari",
+					"email": "ahari-25@peddie.org"
+				},
+				{
+					"name": "Alvin Kim",
+					"email": "akim-26@peddie.org"
+				}
+			]
+		}
+	],
+	[
+		{
+			"block": "Math Center",
+			"time": "7:00pm",
+			"location": "ANH310",
+			"people": [
+				{
+					"name": "Rehan Bhargava",
+					"email": "rbhargava-26@peddie.org"
+				},
+				{
+					"name": "Sean Li",
+					"email": "sli-25@peddie.org"
+				}
+			]
+		}
+	],
+	[
+		{
+			"block": "DMX",
+			"time": "10:20am",
+			"location": "CS Lab",
+			"people": [
+				{
+					"name": "Aanya Tolat",
+					"email": "atolat-25@peddie.org"
+				},
+				{
+					"name": "Philip Han",
+					"email": "yhan-25@peddie.org"
+				}
+			]
+		},
+		{
+			"block": "Math Center",
+			"time": "7:00pm",
+			"location": "Efros",
+			"people": [
+				{
+					"name": "Leo Pan-Wang",
+					"email": "lpan-wang-26@peddie.org"
+				},
+				{
+					"name": "Rohit Nunugonda",
+					"email": "rnunugonda-26@peddie.org"
+				}
+			]
+		}
+	],
+	[],
+	[],
+	[]
+]

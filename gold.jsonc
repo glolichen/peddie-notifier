@@ -1,0 +1,88 @@
+[
+	[
+		{
+			"block": "Math Center",
+			"time": "7:30pm",
+			"location": "ANH309",
+			"people": [
+				{
+					"name": "Amanda Harmon",
+					"email": "aharmon-25@peddie.org"
+				},
+				{
+					"name": "Sophia Pei",
+					"email": "spei-26@peddie.org"
+				}
+			]
+		}
+	],
+	[
+		{
+			"block": "DMX",
+			"time": "10:20am",
+			"location": "CS Lab",
+			"people": [
+				{
+					"name": "Jayden Li",
+					"email": "cli-26@peddie.org"
+				},
+				{
+					"name": "Logan Huang",
+					"email": "lhuang-27@peddie.org"
+				}
+			]
+		}
+	],
+	[
+		{
+			"block": "Math Center",
+			"time": "7:00pm",
+			"location": "ANH310",
+			"people": [
+				{
+					"name": "Jingyi Han",
+					"email": "jhan-26@peddie.org"
+				},
+				{
+					"name": "Jerry Yao",
+					"email": "jyao-26@peddie.org"
+				}
+			]
+		}
+	],
+	[
+		{
+			"block": "DMX",
+			"time": "10:20am",
+			"location": "CS Lab",
+			"people": [
+				{
+					"name": "Ethan Lee",
+					"email": "ylee-25@peddie.org"
+				},
+				{
+					"name": "William Hu",
+					"email": "jhu-25@peddie.org"
+				}
+			]
+		},
+		{
+			"block": "Math Center",
+			"time": "7:00pm",
+			"location": "Efros",
+			"people": [
+				{
+					"name": "Megan Cheng",
+					"email": "mcheng-27@peddie.org"
+				},
+				{
+					"name": "Yixing Shi",
+					"email": "yshi-26@peddie.org"
+				}
+			]
+		}
+	],
+	[],
+	[],
+	[]
+]
